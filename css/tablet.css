@@ -40,7 +40,11 @@
     text-align: center;
     }
     .img-header .welcome>h2 a {
-        font-size: 28px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
     }
 
     
