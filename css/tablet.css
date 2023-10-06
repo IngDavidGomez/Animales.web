@@ -31,6 +31,19 @@
     .menu .list-container .lists li a {
         margin: 5px 0px;
     }
+    
+    .menu .logobox h1>a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    }
+    .img-header .welcome>h2 a {
+        font-size: 28px;
+    }
+
+    
     /** Img Header **/
     .img-header .welcome {
         width: 80%;
