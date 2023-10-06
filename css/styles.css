@@ -85,7 +85,7 @@ body {
 /** Img header **/
 
 .img-header {
-    background: url(../img/header.JPEG);
+    background: url(../img/header.jpeg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
